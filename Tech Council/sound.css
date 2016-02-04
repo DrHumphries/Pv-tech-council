@@ -1,13 +1,14 @@
-.backstage-picture {
+.sound-picture {
 	margin: 0px -2.5px 20px -2.5px;
 	width: 1900px;
 	height: 820px;
-	background-color: maroon;
+	background-color: red;
 }
-.backstage-picture h1 {
+.sound-picture h1 {
 	margin: auto;
+	padding: 363px 850px 410px 736px;
 	font-size: 100px;
-	color: maroon;
+	color: grey;
 }
 h2 {
 	color: white;
@@ -61,7 +62,7 @@ header img {
 	width: 150px;
 }
 h1 {
-    margin: 00px 0px px 1035.5px;
+    margin: -64px 0px 0px 167px;
     font-size: 50px;
 	color: maroon;
 }
