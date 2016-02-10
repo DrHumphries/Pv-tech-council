@@ -1,12 +1,12 @@
 .backstage-picture {
 	margin: 0px -2.5px 20px -2.5px;
-	width: 1900px;
+	width: 1700px;
 	height: 820px;
 	background-color: red;
 }
 .backstage-picture h1 {
 	margin: auto;
-	padding: 363px 850px 410px 736px;
+	padding: 410px 590px 410px 590px;
 	font-size: 100px;
 	color: grey;
 }
@@ -18,7 +18,7 @@ body {
 	background-color: grey;
 }
 footer {
-	width: 1900px;
+	width: 1700px;
 	height: 100px;
 	background-color: black;
 	margin: 20px -2.5px 0px -2.5px;
@@ -35,16 +35,16 @@ footer {
 	margin: 0px 5px 0px 5px;
 }
 header {
-	width: 1900px;
+	width: 1700px;
 	height: 225px;
 	background-color: black;
 	margin: -8px -2.5px 0px -2.5px; 
 }
 header .nav {
-	width: 1490px;
+	width: 1700px;
 	height: 75px;
 	background-color: white;
-	padding: 5px 0px 0px 410px;
+	padding: 5px 0px 0px 0px;
 }
 .nav a {
 	text-decoration: none;
@@ -56,6 +56,9 @@ header .nav {
 	display: inline-block;
 	border-left: 2px solid grey;
 	border-right: 2px solid grey;
+}
+.nav ul {
+	margin: 18px 0px 0px 314px;
 }
 header img {
 	height: 150px;
