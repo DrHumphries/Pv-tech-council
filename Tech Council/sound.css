@@ -43,7 +43,7 @@ header {
 header .nav {
 	width: 1700px;
 	height: 75px;
-	background-color: white;
+	background-color: maroon;
 	padding: 5px 0px 0px 0px;
 }
 .nav a {
